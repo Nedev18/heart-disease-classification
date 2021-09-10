@@ -1,1 +1,1 @@
-# heart-disease-classification
+# Machine Learning para detecção de doença cardíaca
